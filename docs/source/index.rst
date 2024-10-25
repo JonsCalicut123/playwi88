@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Wi88 | Nhà cái cá cược thể thao hàng đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Wi88 là nhà cái cá cược thể thao hàng đầu Châu Á, cung cấp đa dạng các loại hình cá cược như bóng đá, quần vợt, bóng rổ, và nhiều môn thể thao khác. Với hệ thống nạp rút tiền nhanh chóng, uy tín, Wi88 mang đến trải nghiệm cá cược an toàn và tiện lợi. Dịch vụ chăm sóc khách hàng 24/7 luôn sẵn sàng hỗ trợ mọi lúc, mọi nơi, đảm bảo người chơi luôn nhận được sự tư vấn và giải quyết vấn đề một cách nhanh chóng và hiệu quả.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Địa chỉ: 68 Chế Lan Viên, Phường Tây Thạnh, Quận Tân Phú, Thành Phố Hồ Chí Minh
 
-   This project is under active development.
+Phone: 0800215346
 
-Contents
---------
+Email: info@playwi88.com
 
-.. toctree::
+Website: https://playwi88.com/ 
 
-   usage
-   api
+#wi88 #nhacaiwi88 #w88 #wi88poker #wi88social
